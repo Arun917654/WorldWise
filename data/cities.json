@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Capilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-04T10:29:26.621Z",
+      "notes": "sds",
+      "position": {
+        "lat": "38.79503524642181",
+        "lng": "-5.016143763710085"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-01-04T10:29:48.964Z",
+      "notes": "dwqdw",
+      "position": {
+        "lat": "17.827798674165006",
+        "lng": "9.442329714021152"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-04T10:30:36.779Z",
+      "notes": "",
+      "position": {
+        "lat": "40.47019615747793",
+        "lng": "-3.5678047908875192"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-06T13:13:21.043Z",
+      "notes": "",
+      "position": {
+        "lat": "52.39285164039008",
+        "lng": "13.399758554189395"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Castelo Branco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-07T10:12:01.955Z",
+      "notes": "",
+      "position": {
+        "lat": "39.864187426063395",
+        "lng": "-7.789407819341186"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Nessetal",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-07T11:38:36.236Z",
+      "notes": "iuuiuiiu",
+      "position": {
+        "lat": "51.031455848021736",
+        "lng": "10.688947263923056"
+      },
+      "id": 6
+    }
+  ]
+}
